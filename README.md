@@ -1,2 +1,2 @@
 # server-static-html
-테스트용 정적파일
+홈랩 서빙용
