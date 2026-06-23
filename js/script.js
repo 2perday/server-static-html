@@ -125,6 +125,7 @@ function showMotd() {
   addLine('&nbsp;&nbsp;&nbsp;13th Samsung Software Academy for Youth', 'motd');
   addLine('&nbsp;&nbsp;&nbsp;B.S. in Electrical Engineering', 'motd');
   addLine('', 'motd');
+  addLine('<em>"Pour vous"</em>', 'motd');
   addAscii();
   addLine('', 'motd');
   addLine('Type <span class="cmd">help</span> for available commands.', 'motd');
